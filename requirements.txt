@@ -1,0 +1,35 @@
+# Web / API
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pydantic-settings
+email-validator
+# Auth
+PyJWT
+passlib[bcrypt]
+# Database
+sqlalchemy
+psycopg2-binary
+# LLM / agents
+langchain
+langchain-core
+langchain-google-genai
+langchain-mistralai
+langgraph
+langchain-community
+langchain-chroma
+langchain-text-splitters
+tenacity
+# MCP
+mcp
+# Vector store
+faiss-cpu
+chromadb
+# Frontend
+streamlit
+requests
+# Testing
+pytest
+pytest-asyncio
+httpx

@@ -1,0 +1,22 @@
+# environments and secrets
+myenv/
+.venv/
+.env
+
+# python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# local data and generated files
+*.db
+*.log
+backend/vector_index/
+backend/evals/results/
+*.faiss
+.chroma/
+
+# editors and OS
+.idea/
+.vscode/
+.DS_Store

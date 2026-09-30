@@ -1,0 +1,21 @@
+{"title": "Laptop screen flickering", "body": "My laptop screen flickers and goes black every few minutes since the update.", "expected_category": "hardware"}
+{"title": "Keyboard keys not working", "body": "Several keys on my keyboard stopped responding this morning after coffee spill.", "expected_category": "hardware"}
+{"title": "Monitor has no signal", "body": "My second monitor shows no signal even though the cable is plugged in tightly.", "expected_category": "hardware"}
+{"title": "Printer offline", "body": "The office printer shows offline and nothing prints for the whole team today.", "expected_category": "hardware"}
+{"title": "Excel keeps crashing", "body": "Excel crashes every time I open the quarterly budget workbook, need help urgently.", "expected_category": "software"}
+{"title": "Install Photoshop", "body": "Please install Adobe Photoshop on my workstation for the new design project.", "expected_category": "software"}
+{"title": "Outlook asks for password", "body": "Outlook keeps asking for my password every few minutes and will not stay signed in.", "expected_category": "software"}
+{"title": "App update failed", "body": "The CRM desktop app update fails with error 0x80070005 and rolls back each time.", "expected_category": "software"}
+{"title": "VPN connection timed out", "body": "VPN client says connection timed out when I try to connect from home.", "expected_category": "network"}
+{"title": "Wifi drops in meeting room", "body": "The wifi in meeting room 3 keeps dropping during video calls all afternoon.", "expected_category": "network"}
+{"title": "Cannot reach intranet", "body": "The internal intranet site does not load but the public internet works fine.", "expected_category": "network"}
+{"title": "Slow network in building B", "body": "Whole floor on building B has very slow file transfers to the shared drive.", "expected_category": "network"}
+{"title": "Need access to finance share", "body": "Please grant me read access to the finance shared folder for the audit work.", "expected_category": "access"}
+{"title": "Access to Jira project", "body": "I need permissions added to the PAYMENTS Jira project as a developer.", "expected_category": "access"}
+{"title": "Door badge not working", "body": "My badge does not open the server room door although I was approved last week.", "expected_category": "access"}
+{"title": "Account locked", "body": "My account is locked after too many login attempts and I cannot sign in at all.", "expected_category": "account"}
+{"title": "Forgot password", "body": "I forgot my password and the self service reset link never arrives in my inbox.", "expected_category": "account"}
+{"title": "New employee account", "body": "Please create a new account and mailbox for our new hire starting on Monday.", "expected_category": "account"}
+{"title": "Wrong invoice amount", "body": "The software license invoice for March shows double the agreed amount, please check.", "expected_category": "billing"}
+{"title": "Refund for unused seats", "body": "We want a refund for 10 unused cloud seats that were billed last month.", "expected_category": "billing"}
+{"title": "Cafeteria menu question", "body": "Can someone tell me when the cafeteria changes its menu for the next season?", "expected_category": "other"}
